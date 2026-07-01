@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0015-3sum/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0015-3sum/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
