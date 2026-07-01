@@ -13,10 +13,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0001-two-sum/) | Easy |
+| [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 ## Design
@@ -44,4 +46,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 <!---LeetCode Topics End-->
