@@ -20,6 +20,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0263-ugly-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -59,9 +60,14 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0147-insertion-sort-list/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
