@@ -30,6 +30,7 @@
 | [0970-powerful-integers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0970-powerful-integers/) | Medium |
 | [3099-harshad-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@
 | [0015-3sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0015-3sum/) | Medium |
 | [0147-insertion-sort-list](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0147-insertion-sort-list/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
