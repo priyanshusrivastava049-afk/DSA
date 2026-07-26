@@ -9,6 +9,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Hash Table
@@ -27,6 +28,7 @@
 | [0263-ugly-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0738-monotone-increasing-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0970-powerful-integers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0970-powerful-integers/) | Medium |
 | [3099-harshad-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3099-harshad-number/) | Easy |
@@ -57,6 +59,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0015-3sum/) | Medium |
 | [0147-insertion-sort-list](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0147-insertion-sort-list/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Interactive
