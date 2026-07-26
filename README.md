@@ -72,6 +72,7 @@
 | [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
+| [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
+| [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
