@@ -9,6 +9,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -53,6 +54,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
@@ -96,9 +98,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
