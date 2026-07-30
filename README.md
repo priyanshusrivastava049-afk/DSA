@@ -11,6 +11,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -86,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@
 | [0020-valid-parentheses](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
+| [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
