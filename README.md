@@ -73,6 +73,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -97,6 +98,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
