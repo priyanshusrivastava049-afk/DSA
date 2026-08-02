@@ -12,6 +12,7 @@
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
+| [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -33,6 +34,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0738-monotone-increasing-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0738-monotone-increasing-digits/) | Medium |
+| [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
 | [0970-powerful-integers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0970-powerful-integers/) | Medium |
 | [3099-harshad-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
@@ -124,4 +126,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
