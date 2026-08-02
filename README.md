@@ -81,6 +81,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0738-monotone-increasing-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0738-monotone-increasing-digits/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
