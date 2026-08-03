@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0015-3sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
@@ -27,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0263-ugly-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0263-ugly-number/) | Easy |
@@ -108,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
