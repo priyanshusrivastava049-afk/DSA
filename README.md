@@ -43,6 +43,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
@@ -134,4 +136,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
