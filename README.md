@@ -16,6 +16,7 @@
 | [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1390-four-divisors](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1390-four-divisors/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@
 | [0738-monotone-increasing-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
 | [0970-powerful-integers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0970-powerful-integers/) | Medium |
+| [1390-four-divisors](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1390-four-divisors/) | Medium |
 | [3099-harshad-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -146,4 +148,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1390-four-divisors/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1390-four-divisors/) | Medium |
 <!---LeetCode Topics End-->
