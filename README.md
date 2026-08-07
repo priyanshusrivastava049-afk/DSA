@@ -40,6 +40,7 @@
 | [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
 | [0970-powerful-integers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0970-powerful-integers/) | Medium |
 | [1390-four-divisors](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1390-four-divisors/) | Medium |
+| [2739-total-distance-traveled](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/2739-total-distance-traveled/) | Easy |
 | [3099-harshad-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -99,6 +100,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
+| [2739-total-distance-traveled](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/2739-total-distance-traveled/) | Easy |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
