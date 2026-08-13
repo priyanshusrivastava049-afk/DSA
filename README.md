@@ -91,6 +91,7 @@
 | [0678-valid-parenthesis-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1544-make-the-string-great](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1544-make-the-string-great/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Linked List
@@ -102,6 +103,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2739-total-distance-traveled](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/2739-total-distance-traveled/) | Easy |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Enumeration
@@ -126,6 +128,7 @@
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1544-make-the-string-great](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1544-make-the-string-great/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
 ## Heap (Priority Queue)
