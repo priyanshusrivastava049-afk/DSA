@@ -17,6 +17,7 @@
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1390-four-divisors](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1390-four-divisors/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2739-total-distance-traveled](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/2739-total-distance-traveled/) | Easy |
 | [3174-clear-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3174-clear-digits/) | Easy |
@@ -127,6 +129,7 @@
 | [0678-valid-parenthesis-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1544-make-the-string-great](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1544-make-the-string-great/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/2000-reverse-prefix-of-word/) | Easy |
