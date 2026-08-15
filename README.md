@@ -49,6 +49,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
@@ -123,6 +124,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
@@ -158,6 +160,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
