@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0001-two-sum/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0970-powerful-integers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0970-powerful-integers/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@
 | [0058-length-of-last-word](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1544-make-the-string-great](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1544-make-the-string-great/) | Easy |
@@ -162,6 +164,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,4 +173,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1390-four-divisors](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1390-four-divisors/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
