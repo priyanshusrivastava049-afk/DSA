@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0015-3sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
@@ -141,6 +142,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -164,6 +166,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
@@ -177,4 +180,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
