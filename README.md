@@ -13,6 +13,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0456-132-pattern](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0456-132-pattern/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0641-design-circular-deque](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0641-design-circular-deque/) | Medium |
 | [0682-baseball-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0877-stone-game](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0877-stone-game/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -54,6 +55,7 @@
 | [0225-implement-stack-using-queues](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0641-design-circular-deque](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0641-design-circular-deque/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0147-insertion-sort-list/) | Medium |
+| [0641-design-circular-deque](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0641-design-circular-deque/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +171,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0641-design-circular-deque](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0641-design-circular-deque/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
