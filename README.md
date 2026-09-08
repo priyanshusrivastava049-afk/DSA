@@ -48,6 +48,7 @@
 | [3099-harshad-number](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -196,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/priyanshusrivastava049-afk/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
